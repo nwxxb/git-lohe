@@ -9,3 +9,5 @@ hello_world_dict = {
 puts (hello_world_dict[current_locale] || 'hello world fallback').capitalize
 
 puts 'yet another stdout line 1'.capitalize
+
+puts 'yet another stdout line 2'.capitalize
