@@ -9,3 +9,5 @@ hello_world_dict = {
 puts hello_world_dict[CURRENT_LOCALE].capitalize
 
 puts 'yet another stdout line 1'.capitalize
+
+puts 'yet another stdout line (number 2)'.capitalize
