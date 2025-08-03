@@ -1,3 +1,4 @@
+# TODO: how to dynamically set this locale from cli?
 CURRENT_LOCALE ||= 'id'
 
 hello_world_dict = {
